@@ -1,0 +1,103 @@
+Conceito flax box = Alinhar/regular o tamanho das coisas 
+de acordo com o tamanho da tela
+
+.caixa {
+	background-color: #EBECEA;
+}
+
+.logo {
+	width: 300px;
+	height: 300px;
+}
+
+.info {
+	color: #40160C;
+	font-weight: bold;
+	position: absolute;
+	top: 103px;
+	left: 250px;
+	padding: 14px;
+	
+}
+
+h1 {
+	padding-left: 30px;
+  font-size: 55px;
+  color: #40160C;	
+}
+
+p {
+	font-size: 25px;
+	padding-left: 34px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 190px;
+	position: relative;
+	top: 20px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: blue;
+	font-weight: bold;
+	font-size: 19px;
+	text-decoration: none;
+
+}
+
+nav a:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+.nos {
+	position: absolute;
+	top: 450px;
+  color: white;
+  left: 100px;
+}
+
+p em {
+	font-size: 40px;
+}
+
+.nos {
+	text-align: center;
+	left: 0px;
+}
+
+.cafe {
+	width: 900px;
+  height: 600px;
+
+}
+
+
+1)
+
+#8C696B
+#343638
+#8C3946
+#DDD4CB
+#EBECEA
+
+2)
+
+#808C77
+#324028
+#1E400F
+#092601
+
+3)
+
+#D9D0C7
+#592A19
+#733B27
+#A68477
+#40160C
+
+4)
+
+#365902
